@@ -19,3 +19,4 @@ main_window.onkeyrelease(ondpress, "d")
 ttl1.forward(50)
 main_window.listen()
 main_window.mainloop()
+my_password = "Humpty Dumpty sat on a wall, Humpy Dumpty had a great fall, and all the king's horses and all the king's men couldn't put Humpty Dumpty back together again innit"
