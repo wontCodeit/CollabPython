@@ -1,2 +1,3 @@
 # CollabPython
-For learning how to collaborate
+For learning how to collaborate.
+
